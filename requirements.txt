@@ -1,0 +1,5 @@
+Flask==0.12.2
+Flask-GraphQL==1.4.1
+graphene==1.4
+graphql-core==1.1
+graphql-relay==0.4.5
